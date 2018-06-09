@@ -1,0 +1,7 @@
+// For more information see https://docs.c9.io/custom_runners.html
+{
+    "cmd" : ["scala", "$args", "$file"],
+    "info" : "Started $project_path$file_name",
+    "env" : {},
+    "selector" : "source.scala"
+}
